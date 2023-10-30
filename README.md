@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
@@ -19,3 +20,6 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+=======
+# trilha-net-explorando-desafio
+>>>>>>> ae00a52c2b2cf6920d1f5bb2172c180c31fbc70d
